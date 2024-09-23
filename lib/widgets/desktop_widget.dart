@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:responsive_app/main.dart';
+import 'package:responsive_app/widgets/item.dart';
+import 'package:responsive_app/widgets/item2.dart';
 
 class DesktopWidget extends StatelessWidget {
   const DesktopWidget({super.key});
